@@ -12,9 +12,9 @@
 На мастерской вы познакомитесь с библиотеками: NumPy, Pandas, Matplotlib, requests, PyQt/Tkinter. Рекомендуется использовать Windows и среду разработки PyCharm.
 Мастерская подойдёт школьникам с 8 класса и старше, особенно тем, кто любит физику и хочет научиться применять программирование для исследования окружающего мира.
 # Требования
-Python 3.12
-NVIDIA CUDA Toolkit https://developer.nvidia.com/cuda-toolkit
-Видеокарта NVIDIA 900 серии и выше
+* Python 3.12
+* NVIDIA CUDA Toolkit https://developer.nvidia.com/cuda-toolkit
+* Видеокарта NVIDIA 900 серии и выше
 # Сборка и запуск
 Проект можно запустить несколькими способами (в порядке возрастания сложности):
 1) Скачав папку dist и запустив desing_code.exe файл
